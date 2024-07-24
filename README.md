@@ -55,7 +55,7 @@ The application has been tested with a variety of cooking queries to ensure its 
 - "How to bake a chocolate cake?"
 
 ## Video Demonstration
-A detailed video walkthrough of the application demonstrating its features and usage can be found [here]().
+A detailed video walkthrough of the application demonstrating its features and usage can be found (https://youtu.be/f_5Q-RQ32uU).
 
 ## Documentation
 - *Flowise Documentation*: [Flowise Documentation](https://docs.flowiseai.com/)
